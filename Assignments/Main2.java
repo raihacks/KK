@@ -21,3 +21,18 @@ import java.util.Scanner;
 //         System.out.println("Hello! " + name + "!");
 //     }
 // }
+
+// public class Main2{
+//     public static void main(String[] args){
+//         Scanner sc = new Scanner(System.in);
+//         System.out.println("Simple Interest");
+//         System.out.println("Enter the principal amount: ");
+//         int principal = sc.nextInt();
+//         System.out.println("Enter the time (in years): ");
+//         int time = sc.nextInt();
+//         System.out.println("Enter the interest rate: ");
+//         int rate = sc.nextInt();
+//         int simpleInterest = (principal * time * rate) / 100;
+//         System.out.println("The simple interest is: " + simpleInterest);
+//     }
+// }
