@@ -36,3 +36,14 @@ import java.util.Scanner;
 //         System.out.println("The simple interest is: " + simpleInterest);
 //     }
 // }
+
+public class Main2{
+    public static void main(String[] args){
+        
+    }
+}
+
+public class Main2{
+    public static void main(String[] args){
+    }
+}
